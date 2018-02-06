@@ -1,5 +1,5 @@
 package com.example;
-package-info.java
+package-info.java;
 
 /**
  * This is a class.
